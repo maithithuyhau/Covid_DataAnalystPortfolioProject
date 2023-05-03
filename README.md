@@ -26,6 +26,7 @@ Time series analysis was performed using SQL queries to forecast the number of c
 
 ## Data Visualization:
 Interactive dashboards were created using Tableau to visualize the trends, patterns, and insights obtained from the data analysis.
+![pic04](https://user-images.githubusercontent.com/93932176/236070907-690554c4-6f1e-4de7-90f2-c33bffd55ec4.png)
 
 ## Conclusion:
 The COVID-19 Data Exploration project in SQL provides insights into the trends and patterns of the COVID-19 pandemic using data analysis techniques. The project showcases proficiency in data cleaning, visualization, and analysis using SQL and Tableau. The project can be used as a reference for future data exploration projects and provides insights into the global impact of the COVID-19 pandemic.
