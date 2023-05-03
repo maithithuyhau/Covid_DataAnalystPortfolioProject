@@ -4,7 +4,7 @@
 The COVID-19 pandemic has affected the world in unprecedented ways, with millions of cases and fatalities reported worldwide. The project aims to explore COVID-19 data using various data analysis techniques in SQL to identify trends, patterns, and insights.
 
 ## Data Source:
-The data used for this project was sourced from the COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University. The data contains daily updates of confirmed cases, deaths, and recoveries worldwide from January 22, 2020, to the present.
+The data used for this project was sourced from Our World in Data, which provides comprehensive data on COVID-19 deaths worldwide from January 2020 to the present. The data is updated regularly and can be downloaded in CSV format.
 
 ## Tools and Technologies Used:
 
